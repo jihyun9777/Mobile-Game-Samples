@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: e47e36f14ac4a1c4db8000df938d60dc
+  - enabled: 1
+    path: Assets/Scenes/BlockDodge.unity
+    guid: beacebaf60403b546bba1bcb488cd8a8
   m_configObjects: {}

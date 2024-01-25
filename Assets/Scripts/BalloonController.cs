@@ -3,23 +3,17 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 using UnityEngine.SceneManagement;
+using UnityEngine.SocialPlatforms.Impl;
+
 
 public class BalloonController : MonoBehaviour
 {
     public float speed;
-    int score = 0;
     AudioSource audioSource;
-    public TextMeshProUGUI scoreText;
     
     private void Awake()
     {
         audioSource = GetComponent<AudioSource>();
-    }
-
-    // Start is called before the first frame update
-    void Start()
-    {
-        
     }
 
     // Update is called once per frame
@@ -27,7 +21,7 @@ public class BalloonController : MonoBehaviour
     {
         if(transform.position.y > 5.5f)
         {
-            SceneManager.LoadScene("SampleScene");
+            SceneManager.LoadScene("BalloonPop");
         }
     }
 
@@ -38,8 +32,7 @@ public class BalloonController : MonoBehaviour
 
     private void OnMouseDown()
     {
-        score ++;
-        scoreText.text = score.ToString();
+        FindObjectOfType<BalloonScore>().IncrementScore();
 
         audioSource.Play();
 

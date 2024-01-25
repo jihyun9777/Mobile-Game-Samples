@@ -384,7 +384,11 @@
 "Assets/Joystick Pack/Scripts/Joysticks/FloatingJoystick.cs"
 "Assets/Joystick Pack/Scripts/Joysticks/VariableJoystick.cs"
 "Assets/Scripts/BalloonController.cs"
+"Assets/Scripts/BalloonScore.cs"
+"Assets/Scripts/Block.cs"
+"Assets/Scripts/BlockDodgeManager.cs"
 "Assets/Scripts/ChangeScene.cs"
+"Assets/Scripts/DodgePlayer.cs"
 "Assets/Scripts/RabbitPlayer.cs"
 -langversion:9.0
 
