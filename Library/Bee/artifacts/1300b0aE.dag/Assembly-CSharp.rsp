@@ -389,7 +389,10 @@
 "Assets/Scripts/BlockDodgeManager.cs"
 "Assets/Scripts/ChangeScene.cs"
 "Assets/Scripts/DodgePlayer.cs"
+"Assets/Scripts/GameManager.cs"
+"Assets/Scripts/PaddleController.cs"
 "Assets/Scripts/RabbitPlayer.cs"
+"Assets/Scripts/SaveBallController.cs"
 -langversion:9.0
 
 /deterministic

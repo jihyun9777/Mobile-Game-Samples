@@ -76,6 +76,9 @@
     <Compile Include="Assets\Joystick Pack\Examples\JoystickSetterExample.cs" />
     <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\FloatingJoystick.cs" />
     <Compile Include="Assets\Scripts\DodgePlayer.cs" />
+    <Compile Include="Assets\Scripts\PaddleController.cs" />
+    <Compile Include="Assets\Scripts\SaveBallController.cs" />
+    <Compile Include="Assets\Scripts\GameManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
