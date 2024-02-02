@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SaveBall.unity
     guid: 2f36055ac5f74b6408e98b0235ce5510
+  - enabled: 1
+    path: Assets/Scenes/BallSmash.unity
+    guid: 3551de438e02dc741a727dec11baae9a
   m_configObjects: {}
