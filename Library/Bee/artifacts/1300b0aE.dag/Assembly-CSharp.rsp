@@ -385,6 +385,7 @@
 "Assets/Joystick Pack/Scripts/Joysticks/VariableJoystick.cs"
 "Assets/Scripts/BalloonController.cs"
 "Assets/Scripts/BalloonScore.cs"
+"Assets/Scripts/BallSmashBall.cs"
 "Assets/Scripts/Block.cs"
 "Assets/Scripts/BlockDodgeManager.cs"
 "Assets/Scripts/ChangeScene.cs"
