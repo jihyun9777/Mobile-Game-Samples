@@ -8,6 +8,8 @@ TagManager:
   - Block
   - FallCheck
   - Paddle
+  - Food
+  - Danger
   layers:
   - Default
   - TransparentFX

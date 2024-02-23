@@ -23,4 +23,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/BallSmash.unity
     guid: 3551de438e02dc741a727dec11baae9a
+  - enabled: 1
+    path: Assets/Scenes/FoodEater.unity
+    guid: 8fcee811be0f3b9438cd271014a162c6
   m_configObjects: {}

@@ -390,6 +390,7 @@
 "Assets/Scripts/BlockDodgeManager.cs"
 "Assets/Scripts/ChangeScene.cs"
 "Assets/Scripts/DodgePlayer.cs"
+"Assets/Scripts/FoodEaterPlayer.cs"
 "Assets/Scripts/GameManager.cs"
 "Assets/Scripts/PaddleController.cs"
 "Assets/Scripts/RabbitPlayer.cs"

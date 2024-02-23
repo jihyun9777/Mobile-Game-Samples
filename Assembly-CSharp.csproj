@@ -75,11 +75,12 @@
     <Compile Include="Assets\Joystick Pack\Scripts\Base\Joystick.cs" />
     <Compile Include="Assets\Scripts\BlockDodgeManager.cs" />
     <Compile Include="Assets\Scripts\RabbitPlayer.cs" />
+    <Compile Include="Assets\Scripts\BallSmashBall.cs" />
     <Compile Include="Assets\Joystick Pack\Examples\JoystickSetterExample.cs" />
     <Compile Include="Assets\Scripts\SaveBallController.cs" />
     <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\FloatingJoystick.cs" />
     <Compile Include="Assets\Scripts\DodgePlayer.cs" />
-    <Compile Include="Assets\Scripts\BallSmashBall.cs" />
+    <Compile Include="Assets\Scripts\FoodEaterPlayer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
